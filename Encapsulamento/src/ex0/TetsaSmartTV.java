@@ -1,3 +1,4 @@
+package ex0;
 public class TetsaSmartTV {
    public static void main(String[] args) {
 
